@@ -1,6 +1,6 @@
 # Welcome to Hunter's page 👋
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/yyVph7ANKftIs/giphy.gif" width="1000"/>
+  <img src="https://media.giphy.com/media/yyVph7ANKftIs/giphy.gif" width="700"/>
 </div>
 
 # Skills
